@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "minecraft:oak_planks"
+    }
+  ],
+  "result": {
+    "item": "gravittest:wood_shit"
+  }
+}

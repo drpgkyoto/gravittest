@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "gravittest:wood_shit"
+    }
+  },
+  "pattern": [
+    "W",
+    "W",
+    "S"
+  ],
+  "result": {
+    "item": "gravittest:wooden_sword"
+  },
+  "show_notification": true
+}

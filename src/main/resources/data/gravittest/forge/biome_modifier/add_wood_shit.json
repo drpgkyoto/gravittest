@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:plains",
+  "features": "gravittest:wood_shit_placed",
+  "step": "vegetal_decoration"
+}

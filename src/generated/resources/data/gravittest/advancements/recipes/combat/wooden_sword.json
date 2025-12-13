@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "gravittest:wooden_sword"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wood_shit": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "gravittest:wood_shit"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_wood_shit",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "gravittest:wooden_sword"
+    ]
+  },
+  "sends_telemetry_event": false
+}
